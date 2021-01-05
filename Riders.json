@@ -1,0 +1,27 @@
+[
+{
+    "Rider": "Josefin Falkman",
+    "Horse": "Thor från Midgård"
+    "text": "This is a sample text for Josefin and Thor"
+},
+{
+    "Rider": "Louise Josefine Thilander",
+    "Horse": "Mói från Smedjan"
+    "text": "This is a sample text for Louise and Mói"
+},
+{
+    "Rider": "Lowa Walfridsson",
+    "Horse": "Seifur från Skälleryd"
+    "text": "This is a sample text for Lowa and Seifur"
+},
+{
+    "Rider": "Lina Lund",
+    "Horse": "Tara frá Varmadal"
+    "text": "This is a sample text for Lina and Tara"
+},
+{
+    "Rider": "Marianne Jönsson",
+    "Horse": "Draugur fra Skarholt"
+    "text": "This is a sample text for Marianne and Draugur"
+}
+]
